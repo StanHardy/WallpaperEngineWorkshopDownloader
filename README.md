@@ -1,7 +1,5 @@
 # Wallpaper Engine Workshop Downloader
 
-[中文](README_zh.md)
-
 A workshop download tool for Wallpaper Engine.
 
 ## Functions  
